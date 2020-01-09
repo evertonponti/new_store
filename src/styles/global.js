@@ -1,4 +1,5 @@
 import { createGlobalStyle } from 'styled-components';
+import background from '../assets/images/background.svg'
 
 export default createGlobalStyle`
   * {
@@ -8,7 +9,7 @@ export default createGlobalStyle`
     box-sizing: border-box;
   }
   body {
-    background: #3498db;
+    background: #3498db url(${background}) no-repeat center top;
     -webkit-font-smoothing: antialiased;
   }
   body, input, button {
