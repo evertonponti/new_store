@@ -1,0 +1,105 @@
+{
+    "stock": [
+      {
+        "id": 1,
+        "amount": 3
+      },
+      {
+        "id": 2,
+        "amount": 5
+      },
+      {
+        "id": 3,
+        "amount": 2
+      },
+      {
+        "id": 4,
+        "amount": 1
+      },
+      {
+        "id": 5,
+        "amount": 5
+      },
+      {
+        "id": 6,
+        "amount": 10
+      },
+      {
+        "id": 7,
+        "amount": 7
+      },
+      {
+        "id": 8,
+        "amount": 10
+      },
+      {
+        "id": 9,
+        "amount": 2
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "title": "SSD Kingston A400, 480GB, SATA, Leitura 500MB/s, Gravação 450MB/s - SA400S37/480G",
+        "oldPrice": 389.9,
+        "price": 289.9,
+        "image": "https://images8.kabum.com.br/produtos/fotos/85198/85198_index_gg.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Notebook Gamer Acer Aspire Nitro 5, Intel Core i7, 8GB, SSD 128GB + 1TB, NVIDIA GeForce GTX 1050 4GB",
+        "oldPrice": 4899.9,
+        "price": 3899.9,
+        "image": "https://images5.kabum.com.br/produtos/fotos/102485/notebook-gamer-acer-aspire-nitro-5-intel-core-i7-7700hq-8gb-ssd-128gb-1tb-nvidia-geforce-gtx-1050-4gb-endless-os-15-6-an515-51-71a7_1562618380_gg.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Headset Gamer Razer Electra V2 7.1 Virtual - USB - RZ04-02220100-R3U1",
+        "oldPrice": 399.9,
+        "price": 299.9,
+        "image": "https://images8.kabum.com.br/produtos/fotos/94248/94248_1515182853_index_gg.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Processador AMD Ryzen 5 1600, Cache 19MB, 3.2GHz (3.6GHz Max Turbo), AM4 - YD1600BBAFBOX",
+        "oldPrice": 899.9,
+        "price": 599.9,
+        "image": "https://images5.kabum.com.br/produtos/fotos/107545/processador-amd-ryzen-5-1600-cache-19mb-3-2ghz-3-6ghz-max-turbo-am4-yd1600bbafbox_processador-amd-ryzen-5-1600-cache-19mb-3-2ghz-3-6ghz-max-turbo-am4-yd1600bbafbox_1573653285_gg.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Smart TV LED 49´ 4K LG, 3 HDMI, 2 USB, ThinQ AI - 49UM731C0SA.BWZ",
+        "oldPrice": 2099.9,
+        "price": 1643.4,
+        "image": "https://images0.kabum.com.br/produtos/fotos/102710/smart-tv-led-49-4k-lg-3-hdmi-2-usb-thinq-ai-49um731c0sa-bwz_1577201395_gg.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Memória HyperX Fury, 8GB, 2400MHz, DDR4, CL15, Preto - HX424C15FB3/8",
+        "oldPrice": 547.9,
+        "price": 247.9,
+        "image": "https://images6.kabum.com.br/produtos/fotos/103946/memoria-hyperx-fury-8gb-2400mhz-ddr4-cl15-preto-hx424c15fb3-8_memoria-hyperx-fury-8gb-2400mhz-ddr4-cl15-preto-hx424c15fb3-8_1567542849_gg.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Mouse Gamer HyperX Pulsefire Surge RGB 16000 DPI - HX-MC002B",
+        "oldPrice": 399.9,
+        "price": 259.9,
+        "image": "https://images6.kabum.com.br/produtos/fotos/95566/95566_1522950995_index_gg.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Monitor LG LED 25´ Ultrawide, Full HD, IPS, HDMI - 25UM58-P",
+        "oldPrice": 1099.9,
+        "price": 764.91,
+        "image": "https://images2.kabum.com.br/produtos/fotos/77902/77902_index_gg.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Nobreak Gamer Ragtech One Up Nitro, 2000VA, TI - 20ONE4590",
+        "oldPrice": 1999.9,
+        "price": 1499.9,
+        "image": "https://images6.kabum.com.br/produtos/fotos/108786/nobreak-gamer-ragtech-one-up-nitro-2000va-ti-20one4590_1576696777_gg.jpg"
+      }
+    ]
+  }
