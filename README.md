@@ -1,7 +1,7 @@
 Para rodar o mock dos produtos executar o comando:
 
   ``` 
-    $ npm install -g json-server
+    $ yarn add json-server
     $ json-server --watch server.json --port 3333
   ```  
 
